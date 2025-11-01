@@ -1,0 +1,5 @@
+{
+  "name": "Candlestick Pattern Analyzer",
+  "description": "An AI-powered tool to analyze candlestick data. It identifies the current candle type, predicts the next candle's movement, and provides a detailed analysis based on user-provided O, H, L, C, and optional volume data.",
+  "requestFramePermissions": []
+}
